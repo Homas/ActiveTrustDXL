@@ -1,4 +1,5 @@
 # ActiveTrust Dossier/TIDE API DXL Service
+[![OpenDXL Bootstrap](https://img.shields.io/badge/Built%20With-OpenDXL%20Bootstrap-blue.svg)](https://github.com/opendxl/opendxl-bootstrap-python)
 
 ## Overview
 The ActiveTrust DXL service exposes access to the ActiveTrust TIDE/Dossier API via the Data Exchange Layer (DXL) fabric.
