@@ -29,7 +29,7 @@ To start using the ActiveTrust Dossier/TIDE API DXL Service:
   * The `README` links to the documentation which includes installation instructions and usage examples.
 
 ## Docker Support
-A pre-built Docker image can be used as an alternative to installing a Python environment with the modules required for the ActiveTrust Dossier/TIDE API DXL service.
+A pre-built Docker image can be used as an alternative to installing a Python environment with the modules required for the ActiveTrust Dossier/TIDE API DXL service. The image is available on the docker hub under "activetrustdxl" name.
 
 ## Running
 Once the application library has been installed and the configuration files are populated it can be started by executing the following command line:
